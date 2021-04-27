@@ -7,7 +7,7 @@ namespace ejemplo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
-            Console.WriteLine("MOANSO");
+            Console.WriteLine("Este es un tutorial");
         }
     }
 }
