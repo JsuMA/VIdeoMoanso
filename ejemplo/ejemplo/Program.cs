@@ -8,7 +8,6 @@ namespace ejemplo
         {
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Este es un tutorial");
-            Console.WriteLine("MOANSON");
         }
     }
 }
