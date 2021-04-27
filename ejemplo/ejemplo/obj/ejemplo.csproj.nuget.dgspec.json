@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zus_1\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj": {}
+    "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zus_1\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj": {
+    "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zus_1\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj",
+        "projectUniqueName": "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj",
         "projectName": "ejemplo",
-        "projectPath": "C:\\Users\\Zus_1\\source\\repos\\ejemplo\\ejemplo\\ejemplo.csproj",
-        "packagesPath": "C:\\Users\\Zus_1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zus_1\\source\\repos\\ejemplo\\ejemplo\\obj\\",
+        "projectPath": "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj",
+        "packagesPath": "C:\\Users\\angie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Zus_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\angie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
