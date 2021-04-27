@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj": {}
+    "C:\\Users\\ASUS\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj",
         "projectName": "ejemplo",
-        "projectPath": "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj",
-        "packagesPath": "C:\\Users\\angie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angie\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\ejemplo.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\VIdeoMoanso\\ejemplo\\ejemplo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\angie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
